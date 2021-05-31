@@ -36,3 +36,4 @@ _build
 # Jetbrains
 .idea
 .vscode/
+root_key
